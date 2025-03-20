@@ -1,0 +1,82 @@
+.card_section {
+    margin: 15px 0px;
+}
+
+.card_heading {
+    text-align: center;
+    margin: 15px 0px;
+}
+
+.car_cat_text {
+    text-align: center !important;
+    color: white !important;
+    font-weight: 600 !important;
+    font-size: 1rem !important;
+}
+
+.car_card {
+    cursor: pointer !important;
+    transition: 300ms !important;
+    background: linear-gradient(180deg, #011b2ade 0%, #011b2a8a 100%) !important;
+}
+
+.car_card_segment {
+    background: linear-gradient(180deg, #3788b0d6 0%, #7aafca29 100%);
+    cursor: pointer;
+}
+
+.car_card_2 {
+    background: linear-gradient(180deg, #262424 0%, #332d2d9c 100%);
+    cursor: pointer;
+}
+
+.car_card_3 {
+    background: linear-gradient(180deg, #011b2ade 0%, #011b2a8a 100%);
+    cursor: pointer;
+}
+
+.car_card_4 {
+    background: linear-gradient(180deg, #6f0002 0%, #8b010694 100%);
+    cursor: pointer;
+}
+
+.car_card_5 {
+    background: linear-gradient(180deg, #172031 0%, #17203194 100%);
+    cursor: pointer;
+}
+
+.car_card_6 {
+    background: linear-gradient(180deg, #6f0002 0%, #8b010694 100%);
+    cursor: pointer;
+}
+
+.car_card_7 {
+    background: linear-gradient(180deg, #580c0d 0%, #580c0d94 100%);
+    cursor: pointer;
+}
+
+
+
+
+/* .car_card:hover {
+    background-color: #1976d269 !important; */
+/* color: white !important;
+} */
+
+.car_cat_text_categories {
+    text-align: center !important;
+    color: white !important;
+    font-weight: 600 !important;
+    font-size: 1.3rem !important;
+}
+
+
+.car_des_con p {
+    text-align: justify !important;
+    font-family: sans-serif !important;
+    font-size: 16px !important;
+}
+
+.car_des_con {
+    margin-top: 30px !important;
+}

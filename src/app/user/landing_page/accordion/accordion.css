@@ -1,0 +1,12 @@
+.accordion {
+    margin: 20px 0px !important;
+}
+
+.acc_head {
+    font-weight: 600 !important;
+}
+
+.faq_head h1, .faq_head h2 {
+    text-align: center !important;
+    border-bottom: 1px dotted gray !important;
+}

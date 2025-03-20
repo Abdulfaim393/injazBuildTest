@@ -1,0 +1,20 @@
+.overview_text p {
+    color: black !important;
+    font-family: sans-serif !important;
+    font-size: 19px !important;
+    text-align: justify !important;
+}
+.overview_strong {
+    font-size: 1rem;
+}
+
+.company_overview{
+    margin: 30px 0px;
+}
+
+.faq_head h3 {
+    text-align: center !important;
+    border-bottom: 1px dotted gray !important;
+    margin-bottom: 20px;
+    font-size: 26px !important;
+}

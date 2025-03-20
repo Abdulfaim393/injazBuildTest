@@ -1,0 +1,28 @@
+.howWorkHead h3 {
+    text-align: center !important;
+    border-bottom: 1px dotted gray !important;
+    font-size: 26px !important;
+    margin-bottom: 20px;
+}
+
+.howWorkSubHead h4 {
+    text-align: center !important;
+}
+
+.selectCar h3 {
+    text-align: center;
+    color: #33cccc;
+}
+
+.selectCar {
+    justify-content: center;
+}
+
+.selectCar img {
+    width: 100%;
+    padding-right: 3rem;
+    padding-left: 3rem;
+    background-color: #33ccce59;
+    border-radius: 5px;
+    margin-top: 10px;
+}

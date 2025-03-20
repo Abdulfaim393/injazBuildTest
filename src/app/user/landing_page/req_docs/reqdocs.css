@@ -1,0 +1,30 @@
+.required_documents {
+    margin: 50px 0px !important;
+}
+
+.req_heading h3 {
+    text-align: center !important;
+    border-bottom: 1px dotted gray !important;
+    font-size: 26px !important;
+}
+
+.req_para p {
+    text-align: justify !important;
+    font-size: 16px !important;
+    font-family: sans-serif !important;
+}
+
+.uae_res h6 {
+    text-align: center !important;
+    font-size: 17px !important;
+    margin: 0px 0 !important;
+    padding: 12px 0 !important;
+    font-weight: 600 !important;
+    background-color: #01437d !important;
+    color: white;
+}
+
+.uae_res {
+    border: 2px solid #01437d !important;
+    background-color: lightgray;
+}
