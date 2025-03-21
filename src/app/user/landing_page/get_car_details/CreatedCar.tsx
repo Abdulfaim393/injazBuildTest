@@ -19,7 +19,7 @@ import axios from "axios";
 import { serverUrl } from "@/utils/helper";
 import NavFooter from "@/utils/Na_Fo";
 import Image from "next/image";
-import SwipeableViews from "react-swipeable-views";
+// import SwipeableViews from "react-swipeable-views";
 import {
   AppBarMain,
   AppBarMainBox,
@@ -833,7 +833,7 @@ const CreatedCar = () => {
                         />
                       </Tabs>
                     </AppBarMain>
-                    <SwipeableViews
+                    {/* <SwipeableViews
                       axis={theme.direction === "rtl" ? "x-reverse" : "x"}
                       index={value}
                       onChangeIndex={handleChangeIndex}
@@ -877,7 +877,7 @@ const CreatedCar = () => {
                           </HighlightBox>
                         ))}
                       </TabPanel>
-                    </SwipeableViews>
+                    </SwipeableViews> */}
                   </AppBarMainBox>
                 </section>
               </div>
